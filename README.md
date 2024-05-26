@@ -19,7 +19,9 @@ This project is a simple implementation of the classic Bingo game in Java. It in
    git clone https://github.com/yourusername/bingo-game-java.git
    cd bingo-game-java
 2. Compile the code: Use javac to compile the Java files.
-      '''javac bingo.java card.java play.java'''
+   ```bash
+      javac bingo.java card.java play.java
 3. Run the game: Execute the main class to start the game.
-        '''java bingo'''
+  ```bash
+        java bingo
    
